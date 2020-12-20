@@ -1,4 +1,4 @@
-py-scraper - Python proxy scraper
+Python proxy scraper
 =============================
 
 This package can scrap HTTP/HTTPS/SOCKS proxy from specific country
