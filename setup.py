@@ -3,7 +3,7 @@ import py_scraper
  
 
 setup(
-    name='py_scraper',
+    name='py-scraper',
     version=py_scraper.__version__,
     packages=find_packages(),
     author="Chibraax",
