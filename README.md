@@ -23,3 +23,8 @@ Argument :
     --country <??> : Scrap only proxy from specific country (see --countrycode)
     --countrycode : See all code country
     By default py_scraper will scrap HTTP/HTTPS proxy
+
+py-scraper scrap his proxy on : 
+    https://free-proxy-list.net/
+    https://www.socks-proxy.net/
+    https://www.sslproxies.org/
