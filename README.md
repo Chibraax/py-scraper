@@ -14,7 +14,7 @@ Example :
 
     OR If you want use it at module 
 
-    import py_scraper
+    from py_scraper.scrap import Proxyscraper
 
 Argument : 
 
