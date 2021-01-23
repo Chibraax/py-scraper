@@ -3,11 +3,11 @@ Python proxy scraper
 
 This package can scrap HTTP/HTTPS/SOCKS proxy from specific country
 
-You can install with pip : 
+You can install with git : 
 
     git clone https://github.com/Chibraax/py-scraper
 
-or
+or pip
 
     pip3 install py-scraper
 
